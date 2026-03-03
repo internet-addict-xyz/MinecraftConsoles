@@ -191,7 +191,7 @@ publish/
 *.pubxml
 *.publishproj
 
-# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# Microslop Web App publish settings. Comment the next line if you want to
 # checkin your Azure Web App publish settings, but sensitive information contained
 # in these scripts will be unencrypted
 PublishScripts/
@@ -210,11 +210,11 @@ PublishScripts/
 *.nuget.props
 *.nuget.targets
 
-# Microsoft Azure Build Output
+# Microslop Build Output
 csx/
 *.build.csdef
 
-# Microsoft Azure Emulator
+# Microslop Emulator
 ecf/
 rcf/
 

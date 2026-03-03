@@ -81,7 +81,7 @@
 // #define BOOST_ABI_SUFFIX my-header-name
 
 // BOOST_ALL_DYN_LINK: Forces all libraries that have separate source, 
-// to be linked as dll's rather than static libraries on Microsoft Windows 
+// to be linked as dll's rather than static libraries on Microslop Bindows 
 // (this macro is used to turn on __declspec(dllimport) modifiers, so that 
 // the compiler knows which symbols to look for in a dll rather than in a 
 // static library).  Note that there may be some libraries that can only 
@@ -91,7 +91,7 @@
 // #define BOOST_ALL_DYN_LINK
  
 // BOOST_WHATEVER_DYN_LINK: Forces library "whatever" to be linked as a dll 
-// rather than a static library on Microsoft Windows: replace the WHATEVER 
+// rather than a static library on Microslop Bindows: replace the WHATEVER 
 // part of the macro name with the name of the library that you want to 
 // dynamically link to, for example use BOOST_DATE_TIME_DYN_LINK or 
 // BOOST_REGEX_DYN_LINK etc (this macro is used to turn on __declspec(dllimport) 

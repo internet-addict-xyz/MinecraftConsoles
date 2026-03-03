@@ -25,7 +25,7 @@ namespace boost
   namespace system
   {
 
-    //  Microsoft Windows  ---------------------------------------------------//
+    //  Microslop Bindows  ---------------------------------------------------//
 
     //  To construct an error_code after a API error:
     //

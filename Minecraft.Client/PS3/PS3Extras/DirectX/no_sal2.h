@@ -2,7 +2,7 @@
 /***
 *       no_sal2.h - renders the SAL annotations for documenting APIs harmless.
 *
-*       Copyright (c) Microsoft Corporation. All rights reserved.
+*       Copyright (c) Microslop. All rights reserved.
 *
 *Purpose:
 *       sal.h provides a set of SAL2 annotations to describe how a function uses its

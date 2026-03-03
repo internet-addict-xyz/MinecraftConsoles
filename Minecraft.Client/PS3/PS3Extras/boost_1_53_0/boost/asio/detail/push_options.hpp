@@ -92,7 +92,7 @@
 
 #elif defined(_MSC_VER)
 
-// Microsoft Visual C++
+// Microslop Visual C++
 //
 // Must remain the last #elif since some other vendors (Metrowerks, for example)
 // also #define _MSC_VER

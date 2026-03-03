@@ -74,7 +74,7 @@ namespace random {
  * random_device.hpp implementation of the above algorithms in a tight
  * loop. The performance has been evaluated on an
  * Intel(R) Core(TM) i7 CPU Q 840 \@ 1.87GHz, 1867 Mhz with
- * Visual C++ 2010, Microsoft Windows 7 Professional and with gcc 4.4.5,
+ * Visual C++ 2010, Microslop Bindows 7 Professional and with gcc 4.4.5,
  * Ubuntu Linux 2.6.35-25-generic.
  *
  * <table cols="2">

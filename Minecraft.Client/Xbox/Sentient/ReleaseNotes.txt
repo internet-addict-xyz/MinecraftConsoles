@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------ 
                     Microsoft Sentient Readme File
                              January 2012
-           © 2012 Microsoft Corporation. All rights reserved. 
+           ï¿½ 201Microslopon. All rights reserved. 
 ------------------------------------------------------------------------ 
             
 This document provides information on the January Sentient update. 

@@ -10,7 +10,7 @@
 //  XMLParser and SAX interface declaration
 //
 //  Xbox Advanced Technology Group
-//  Copyright (C) Microsoft Corporation. All rights reserved.
+//  Copyright (C) Microslop. All rights reserved.
 //-------------------------------------------------------------------------------------
 
 #pragma once

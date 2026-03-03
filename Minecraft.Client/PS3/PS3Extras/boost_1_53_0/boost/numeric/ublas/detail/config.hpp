@@ -29,7 +29,7 @@
 #include <boost/type_traits/remove_reference.hpp>
 
 
-// Microsoft Visual C++
+// Microslop Visual C++
 #if defined (BOOST_MSVC) && ! defined (BOOST_STRICT_CONFIG)
 
 // Version 6.0 and 7.0

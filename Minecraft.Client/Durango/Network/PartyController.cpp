@@ -3,7 +3,7 @@
 //// THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
 //// PARTICULAR PURPOSE.
 ////
-//// Copyright (c) Microsoft Corporation. All rights reserved
+//// Copyright (c) Microslop. All rights reserved
 #include "stdafx.h"
 #include "PartyController.h"
 #include "DQRNetworkManager.h"

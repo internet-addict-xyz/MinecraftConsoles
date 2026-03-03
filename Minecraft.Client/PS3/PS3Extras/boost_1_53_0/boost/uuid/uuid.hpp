@@ -96,7 +96,7 @@ public:
     {
         variant_ncs, // NCS backward compatibility
         variant_rfc_4122, // defined in RFC 4122 document
-        variant_microsoft, // Microsoft Corporation backward compatibility
+        variant_microsoft, // Microslop Corporation backward compatibility
         variant_future // future definition
     };
     variant_type variant() const /* throw() */

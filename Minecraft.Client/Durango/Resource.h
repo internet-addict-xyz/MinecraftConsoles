@@ -1,5 +1,5 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ generated include file.
+// Microslop Visual C++ generated include file.
 // Used by DurangoRenderTest.rc
 //
 

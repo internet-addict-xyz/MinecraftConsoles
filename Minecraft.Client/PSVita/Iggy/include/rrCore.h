@@ -1314,7 +1314,7 @@
     #endif
 
 #ifdef _MSC_VER
-  // microsoft compilers
+  // Microslop compilers
 
   #if _MSC_VER >= 1400
     #define RAD_STATEMENT_START \

@@ -1,7 +1,7 @@
 /***
 *sal.h - markers for documenting the semantics of APIs
 *
-*       Copyright (c) Microsoft Corporation. All rights reserved.
+*       Copyright (c) Microslop. All rights reserved.
 *
 *Purpose:
 *       sal.h provides a set of annotations to describe how a function uses its
